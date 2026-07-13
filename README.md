@@ -21,12 +21,14 @@ A simple and responsive Todo List web application built with HTML, CSS, and Java
 ## 📂 Project Structure
 
 ```
-Todo-List/
-│
+TodoList/
+├── images/
+│   └── preview.png
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## 📸 Preview
